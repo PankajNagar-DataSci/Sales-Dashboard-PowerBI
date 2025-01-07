@@ -1,6 +1,6 @@
 # 📊 Power BI Sales Dashboard Insights 💼  
 
-I'm excited to share my Power BI project: an interactive dashboard that provides comprehensive insights into the sales performance of various beverage brands, and it also includes a dedicated Coca-Cola sales dashboard.  
+I'm excited to share my Power BI project: an interactive dashboard that provides comprehensive insights into the sales performance of various beverage brands, and it also includes a dedicated Coca-Cola sales dashboard. 
 
 ## 🚀 Project Overview  
 
