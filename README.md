@@ -1,7 +1,3 @@
-Here’s the complete README file with the updated **Data Analysis** section:  
-
----
-
 # 📊 Power BI Sales Dashboard Insights 💼  
 
 I'm excited to share my Power BI project: an interactive dashboard that provides comprehensive insights into the sales performance of various beverage brands, and it also includes a dedicated Coca-Cola sales dashboard.  
@@ -70,12 +66,14 @@ Designed and developed two key dashboards:
 
 ### 🖼️ Dashboard Preview  
 
-(Suggest including screenshots of the dashboards here to showcase the visuals and layout.)  
+![1](https://github.com/user-attachments/assets/3481ab88-f800-44b9-adc3-dc0089f9c95e)
+
+![2](https://github.com/user-attachments/assets/dd9eb19f-47d6-41ec-baac-fbcfccf1751a)
 
 ---
 
-### 🤝 Feedback and Collaboration  
+### 🤝 Feedback 
 
-I’d love to hear your thoughts on this project! Feel free to connect with me to discuss these insights or explore opportunities to collaborate on similar projects.  
+I’d love to hear your thoughts on this project! Feel free to connect with me to discuss these insights on similar projects.  
 
 --- 
